@@ -1,0 +1,20 @@
+[
+    {
+        "address": "tnam1qxdzup2hcvhswcgw5kerd5lfkf04t64y3scgqm5v",
+        "amount": 55270111750000,
+        "category": "public_allocations_future",
+        "name": "Luminara"
+    },
+    {
+        "address": "tnam1qxt7uxhj9r00mfm4u870e7ghz6j20jrdz58gm5kj",
+        "amount": 55270011785390,
+        "category": "public_allocations_future",
+        "name": "Anoma Foundation"
+    },
+    {
+        "address": "tnam1qyez9fd9nkaxfj4u2f2k0vavr8mm69azcgds45rr",
+        "amount": 50000000000000,
+        "category": "public_allocations_future",
+        "name": "Anoma Foundation"
+    }
+]
