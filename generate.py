@@ -57,7 +57,8 @@ allocations = [obj[addr] for addr in obj]
 
 def format_allocation_line(allocation):
     line = '{} = "{:.6f}"'.format(allocation['address'], Decimal(allocation['amount']) / unam_per_nam)
-    line += ' # (categories: {})'.format(allocation['categories'])
+    categories = sorted(list(allocation['categories']))
+    line += ' # (categories: {})'.format(categories)
     if 'name' in allocation:
         line += ' (name: {})'.format(allocation['name'])
     return line
