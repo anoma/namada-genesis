@@ -51,4 +51,4 @@ for m in multisigs:
   open('/tmp/transactions.toml', 'w').write(data)
   addr = subprocess.getoutput('namadac utils derive-genesis-addresses --path /tmp/transactions.toml | grep Address | cut -c 28-')
   alloc = obj[addr]
-  print('Found allocation: {}'.format(alloc['amount']))
+  print('Found allocation: {} for {}'.format(alloc['amount'], alloc['address']))
