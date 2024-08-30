@@ -1,19 +1,37 @@
 [
     {
         "address": "tnam1q8nm4ar7aua8035du0m8x6amfe4407uzvqtfs6lm",
-        "amount": 75000000000000,
+        "amount": 50000000000000,
+        "category": "r&d_ecosystem_dev",
+        "name": "Anoma Foundation"
+    },
+    {
+        "address": "tnam1qrgzn9q7n6yew78dxykczau5vdp0fxlc3gkyahzz",
+        "amount": 25000000000000,
         "category": "r&d_ecosystem_dev",
         "name": "Anoma Foundation"
     },
     {
         "address": "tnam1qxpxtw4cu4ht96fu999ya7mzuhapaly7mywwchvr",
-        "amount": 25000000000007,
+        "amount": 16666666666675,
         "category": "r&d_ecosystem_dev",
         "name": "Heliax"
     },
     {
         "address": "tnam1q8vsay36r3u50yd4773nal0dz7duyw3fhujk0547",
-        "amount": 25000000000000,
+        "amount": 16666666666666,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qzn4zxrfrkeflg2herpuykgspazut6khry0y4nl6",
+        "amount": 12500000000000,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qqvt58wcpu7euaf69p2ps3jrrpgfa7ellg4ka4ja",
+        "amount": 12500000000000,
         "category": "r&d_ecosystem_dev",
         "name": "Heliax"
     },
@@ -28,60 +46,6 @@
         "amount": 3500000000000,
         "category": "r&d_ecosystem_dev",
         "name": "Knowable"
-    },
-    {
-        "address": "tnam1qz3x4m7d3n24myvvfrzkt5ez9a36u3yg6qrvqgws",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qzpd6dt6r6c53e3qmkltmuwqafecw8nmausszuan",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qqsdym7vy6wt9r8gkgwkq4293n56z57d25tfv9gl",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qq528kxeu4l2xalqfq7mkn3ud3gjstrmmytfpye5",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qzzjv4frk3mkju53skx36l4zjsnk0c8p0s349s52",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qreghd0cpccwh2n6qefjx277gd5r3eysyq24x5tk",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qr80lu3dsxg9e2rws2p6mhl3s2hjyyqvpv49t6nn",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qzfqzrkxavc5h6nswwf4g4lrrrpsvx6s25392kkf",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
-    },
-    {
-        "address": "tnam1qqez4lsc2x90hcl66tsej0mptchr303lvulutxfh",
-        "amount": 2777777777777,
-        "category": "r&d_ecosystem_dev",
-        "name": "Heliax"
     },
     {
         "address": "tnam1qzdnqefkeyuhmp385mts547m5lk8mcdn3yydnu0z",
@@ -112,6 +76,60 @@
         "amount": 2000000000000,
         "category": "r&d_ecosystem_dev",
         "name": "Knowable"
+    },
+    {
+        "address": "tnam1qz3x4m7d3n24myvvfrzkt5ez9a36u3yg6qrvqgws",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qzpd6dt6r6c53e3qmkltmuwqafecw8nmausszuan",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qqsdym7vy6wt9r8gkgwkq4293n56z57d25tfv9gl",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qq528kxeu4l2xalqfq7mkn3ud3gjstrmmytfpye5",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qzzjv4frk3mkju53skx36l4zjsnk0c8p0s349s52",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qreghd0cpccwh2n6qefjx277gd5r3eysyq24x5tk",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qr80lu3dsxg9e2rws2p6mhl3s2hjyyqvpv49t6nn",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qzfqzrkxavc5h6nswwf4g4lrrrpsvx6s25392kkf",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
+    },
+    {
+        "address": "tnam1qqez4lsc2x90hcl66tsej0mptchr303lvulutxfh",
+        "amount": 1851851851851,
+        "category": "r&d_ecosystem_dev",
+        "name": "Heliax"
     },
     {
         "address": "tnam1qqsxc4aaph08uhq9s9ur9034ts37c8kyfcser2p6",

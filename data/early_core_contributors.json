@@ -1,11 +1,5 @@
 [
     {
-        "address": "tnam1qydnp0feth8jf9l0uhycd7l8nruhrwwtagl0r6js",
-        "amount": 6866969000000,
-        "category": "early_core_contributors",
-        "name": "Anoma Foundation"
-    },
-    {
         "address": "tnam1qzzvjjaullcn205wgppf67s2c77aw4ynmg2v4jra",
         "amount": 6142285000000,
         "category": "early_core_contributors"
@@ -76,6 +70,12 @@
         "category": "early_core_contributors"
     },
     {
+        "address": "tnam1qydnp0feth8jf9l0uhycd7l8nruhrwwtagl0r6js",
+        "amount": 4577979333334,
+        "category": "early_core_contributors",
+        "name": "Anoma Foundation"
+    },
+    {
         "address": "tnam1qzhk9qudcp7s70nddy2qz7fr96a8r95vlcrr3jlh",
         "amount": 3908167000000,
         "category": "early_core_contributors"
@@ -104,6 +104,12 @@
         "address": "tnam1qr2s7x8py3ufk3d9kqmc29e7sy0v8rhuhgz6patc",
         "amount": 2500000000000,
         "category": "early_core_contributors"
+    },
+    {
+        "address": "tnam1qphr2w6w7gl7lmlw7sjsmh6m2rq7m0j6lsaq4jy2",
+        "amount": 2288989666666,
+        "category": "early_core_contributors",
+        "name": "Anoma Foundation"
     },
     {
         "address": "tnam1qzn9a7kasmvv5ga0eym3c5dc8ackfgt5qqapat52",

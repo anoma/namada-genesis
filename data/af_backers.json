@@ -200,15 +200,15 @@
         "category": "af_backers"
     },
     {
-        "address": "tnam1q9gg5fpumzk9l764zex5es0cmvmkx2fghs58fhmk",
-        "amount": 2500000000000,
-        "category": "af_backers",
-        "name": "Anoma Foundation"
-    },
-    {
         "address": "tnam1qrnztk7el2zx0vpumclnzwgk0yp6dm3r45efjlqd",
         "amount": 2125000000000,
         "category": "af_backers"
+    },
+    {
+        "address": "tnam1q9gg5fpumzk9l764zex5es0cmvmkx2fghs58fhmk",
+        "amount": 1666666666667,
+        "category": "af_backers",
+        "name": "Anoma Foundation"
     },
     {
         "address": "tnam1qqc7q2a2w9hsr0n6lp9sk6hsl9e2gx0fhssg0aw9",
@@ -324,6 +324,12 @@
         "address": "tnam1qp45rpk8qcdjxluuafrslqyrg4we9jetrs7jlx5s",
         "amount": 873600000000,
         "category": "af_backers"
+    },
+    {
+        "address": "tnam1qqqv4d7jtwuy2rhugcf3hdjupt2gsrjauys2495x",
+        "amount": 833333333333,
+        "category": "af_backers",
+        "name": "Anoma Foundation"
     },
     {
         "address": "tnam1qpzxa66zx6jt2p2ng2t3ez2frq9lepgkjvjtl9d6",

@@ -7,13 +7,25 @@
     },
     {
         "address": "tnam1qxt7uxhj9r00mfm4u870e7ghz6j20jrdz58gm5kj",
-        "amount": 55270011785390,
+        "amount": 36846674523594,
         "category": "public_allocations_future",
         "name": "Anoma Foundation"
     },
     {
         "address": "tnam1qyez9fd9nkaxfj4u2f2k0vavr8mm69azcgds45rr",
-        "amount": 50000000000000,
+        "amount": 33333333333334,
+        "category": "public_allocations_future",
+        "name": "Anoma Foundation"
+    },
+    {
+        "address": "tnam1qqp69rzwsgnqdm0d4qfhw4qa4s6v3tlzm5069f4j",
+        "amount": 18423337261796,
+        "category": "public_allocations_future",
+        "name": "Anoma Foundation"
+    },
+    {
+        "address": "tnam1qrucghh3hw2zq8xtqzdj44nh5nrmnkn0usqng8yq",
+        "amount": 16666666666666,
         "category": "public_allocations_future",
         "name": "Anoma Foundation"
     }
